@@ -38,7 +38,8 @@
         "vardot/blazy": "1.8.2.1",
         "drupal-ckeditor-libraries-group/font": "^4.19",
         "goalgorilla/rtseo.js": "^2.1",
-        "mehrpadin/superfish": "^2.1"
+        "mehrpadin/superfish": "^2.1",
+        "drupal/core-project-message": "^8.8"
     },
     "require-dev": {
         "drupal/core-dev": "^8.8"
