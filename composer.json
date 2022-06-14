@@ -24,7 +24,8 @@
         "drupal/admin_toolbar": "^2.5",
         "drupal/libraries": "^3.0-beta1",
         "drupal/examples": "^1.1",
-        "drupal/google_analytics": "^4.0.0"
+        "drupal/google_analytics": "^4.0.0",
+        "drupal/pathauto": "^1.8"
     },
     "require-dev": {
         "drupal/core-dev": "^8.8"
