@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1435b0ba73d7fca8c56bb2c733791611",
+    "content-hash": "29c7adfc706921d4d4e94fc36faf4caf",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1686,6 +1686,40 @@
                 "source": "https://github.com/doctrine/lexer/tree/1.0.2"
             },
             "time": "2019-06-08T11:03:04+00:00"
+        },
+        {
+            "name": "drupal-ckeditor-libraries-group/font",
+            "version": "4.19.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/drupal-ckeditor-libraries-group/font.git",
+                "reference": "3a5572e78e64e2bfe60410203e6e03bf7f0d9f80"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/drupal-ckeditor-libraries-group/font/zipball/3a5572e78e64e2bfe60410203e6e03bf7f0d9f80",
+                "reference": "3a5572e78e64e2bfe60410203e6e03bf7f0d9f80",
+                "shasum": ""
+            },
+            "type": "drupal-library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later",
+                "LGPL-2.1-or-later",
+                "MPL-1.1"
+            ],
+            "description": "CKEditor 4 font plugin",
+            "homepage": "https://ckeditor.com/cke4/addon/font",
+            "keywords": [
+                "CKEditor",
+                "font",
+                "plugin"
+            ],
+            "support": {
+                "issues": "https://github.com/ckeditor/ckeditor4/issues",
+                "source": "https://github.com/ckeditor/ckeditor4/tree/master/plugins/font"
+            },
+            "time": "2022-01-25T09:28:39+00:00"
         },
         {
             "name": "drupal/admin_toolbar",

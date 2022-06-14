@@ -35,7 +35,8 @@
         "drupal/ctools": "^3.7",
         "drupal/adminimal_theme": "^1.6",
         "drupal/omega": "^5.0-alpha7",
-        "vardot/blazy": "1.8.2.1"
+        "vardot/blazy": "1.8.2.1",
+        "drupal-ckeditor-libraries-group/font": "^4.19"
     },
     "require-dev": {
         "drupal/core-dev": "^8.8"
